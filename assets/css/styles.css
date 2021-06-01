@@ -1,0 +1,44 @@
+.rect {
+  height: 460px;
+  width: 600px;
+  background-color: #ce2c2c;
+  top: 100px;
+  left: -90px;
+  position: relative;
+}
+
+.image {
+  width: 450px;
+}
+
+.imagediv {
+  position: relative;
+  top: -75px;
+}
+
+.carddiv {
+  height: 200px;
+  width: 400px;
+  position: relative;
+  top: -140px;
+  left: 445px;
+}
+
+.learnmore {
+  position: relative;
+  top: 677px;
+  left: -213px;
+  width: 120px;
+  height: 30px;
+}
+
+.circle {
+  height: 125px;
+  width: 125px;
+  background-color: #ce2c2c;
+  border-radius: 50%;
+  position: relative;
+  top: 465px;
+  left: 10px;
+}
+
